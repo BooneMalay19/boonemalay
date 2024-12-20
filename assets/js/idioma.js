@@ -305,9 +305,9 @@ function translateButtons(language) {
 
   if (artStationButton) {
     if (language === "pt") {
-      artStationButton.textContent = "Meu Perfil";
+      artStationButton.textContent = "CURRÍCULO";
     } else {
-      artStationButton.textContent = "My Profile";
+      artStationButton.textContent = "curriculum";
     }
   }
 
