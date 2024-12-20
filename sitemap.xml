@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.boonemalay.com.br/</loc>
-    <lastmod>2024-12-20</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <!-- Adicione outras páginas aqui -->
+    <url>
+        <loc>https://boonemalay.com.br/</loc>
+        <lastmod>2024-12-20</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://boonemalay.com.br/index.html</loc>
+        <lastmod>2024-12-20</lastmod>
+        <priority>0.80</priority>
+    </url>
 </urlset>
